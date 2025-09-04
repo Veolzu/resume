@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.top-box {
+  padding: 1 em;
+  margin-top: 1 em;
+  text-align: center;
+  width: 100%;;
+  z-index: 0;
+  background-color: gray;
+  height: 12rem;
+}
+
+.left-side-box {
+    width: 22rem;
+    height: 100rem;
+    background-color: lightgray;
+    z-index: 1  ;
+}
